@@ -28,25 +28,13 @@ document.getElementById("appcontent").innerHTML = `
     <img class="card-img-top" src="resources/images/bookbacktraining.png" alt="Card image">
     <!-- <img class="card-img-top" src="img_avatar1.png" alt="Card image"> -->
     <div class="card-body">
-      <h4 class="card-title">Group 010101-18</h4>
+      <h4 class="card-title">Training 010101-18</h4>
       <p class="card-text card-text-ext">Training group for consultants.</p>
       <a href="#" class="btn btn-success">Open</a>
       <a href="#" class="btn btn-info btn-info-ext">Info</a>
     </div>
   </div>
 </div>
-</div>
-<div class="row card-row-ext">
-<div class="col">
-  <div id="4" class="card card-ext">
-    <img class="card-img-top" src="resources/images/bookbacktraining.png" alt="Card image">
-    <div class="card-body">
-      <h4 class="card-title">Study</h4>
-      <p class="card-text card-text-ext">Study group for T&L exam.</p>
-      <a href="paths/pathtmp/pathtmp.html" class="btn btn-success">Open</a>
-      <a href="paths/pathtmp/pathinfotmp.html" class="btn btn-info btn-info-ext">Info</a>
-    </div>
-  </div>
 </div>
 </div>
 `;
